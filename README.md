@@ -2,7 +2,7 @@
 ### A field instrument for SOTA, POTA, WWFF and HEMA activations
 
 **Hardware:** LilyGo T-Display-S3 AMOLED Touch (ESP32-S3)  
-**Callsign:** ZL1SGS — Steve Gorton, Auckland, New Zealand  
+**Callsign:** ZL1SGS — Auckland, New Zealand  
 **Version:** v31
 
 ---
@@ -287,7 +287,7 @@ NMEA sentence quick reference:
 
 ## Author
 
-Steve Gorton — ZL1SGS  
+ZL1SGS  
 Auckland, New Zealand  
 Retiring November 2026  
 Australia motorcycle circumnavigation planned February 2027
